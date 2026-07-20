@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Dal Khichdi",
+    "icon": "🍚",
+    "description": "Comfort food with ghee & veggies",
+    "price": 120,
+    "category": "veg",
+    "tags": ["home", "healthy"],
+    "popular": true
+  },
+  {
+    "id": 2,
+    "name": "Paneer Butter Masala",
+    "icon": "🧈",
+    "description": "Creamy cottage cheese in tomato gravy",
+    "price": 180,
+    "category": "veg",
+    "tags": ["home"],
+    "popular": true
+  },
+  {
+    "id": 201,
+    "name": "Gulab Jamun",
+    "icon": "🍡",
+    "description": "Soft milk dumplings in sugar syrup",
+    "price": 60,
+    "category": "sweet",
+    "tags": ["sweet"],
+    "popular": true
+  }
+]

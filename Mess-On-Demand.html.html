@@ -26,7 +26,7 @@
             --darker: #050510;
             --glass: rgba(255, 255, 255, 0.05);
             --glass-border: rgba(255, 255, 255, 0.08);
-            --text: #ffffff;
+            --text: #9a1111;
             --text-muted: rgba(255, 255, 255, 0.5);
             --card-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
             --radius: 20px;
@@ -749,7 +749,7 @@
                         </div>
                         <div class="form-group">
                             <label><i class="fas fa-lock" style="color:var(--accent);"></i> Password</label>
-                            <input type="password" id="loginPassword" placeholder="••••••••" required>
+                            <input type="password" id="loginPassword" placeholder="Min 6 chars"required>
                         </div>
                         <button type="submit" class="btn btn-primary btn-full"><i class="fas fa-arrow-right"></i> Login</button>
                     </form>
@@ -936,7 +936,7 @@
                         <span id="cartTotalPrice" style="color:var(--accent);">₹0.00</span>
                     </div>
                     <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:15px;">
-                        <button class="btn btn-accent btn-glow" onclick="placeOrder()" style="flex:1;justify-content:center;color:#1a1a2e;">
+                        <button class="btn btn-accent btn-glow" onclick="placeOrder(add)" style="flex:1;justify-content:center;color:#1a1a2e;">
                             <i class="fas fa-check-circle"></i> Place Order
                         </button>
                         <button class="btn btn-outline" onclick="clearCart()" style="flex:1;justify-content:center;">
