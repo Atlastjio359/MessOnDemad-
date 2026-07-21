@@ -1,83 +1,44 @@
-# 🍽️ Mess On-Demand - College Food Delivery Platform
+# MessOnDemad 🍽️🏠🏠
+Mess On-Demand is a comprehensive college food delivery platform designed specifically for hostel students. It bridges the gap between students craving home-style food and the mess/kitchen services on campus. The platform offers a seamless experience for browsing menus, ordering meals, tracking deliveries, and providing feedback—all from a single, intuitive interface.
+College Food Portal with 3D UI, student login, 60+ menu items, special thali/tiffin with item details, bidding, ₹80 tiffin, sweets, chef specials, offers, order tracking, star ratings, cart, wallet, rewards, coupons, delivery time, dark/light theme &amp; responsive design. Complete food ordering solution!
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-4.x-blue.svg)](https://expressjs.com/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-> A complete college food delivery platform where students can order home-style meals, track orders, earn reward points, and share feedback.
+# Why Mess On Demand 🎯🎯
+🏫 Built for Students — Designed with college life in mind
+🍱 Home-style Meals — Fresh, healthy, and affordable
+⚡ Lightning Fast — Order in seconds, not minutes
+📱 Mobile-First — Perfect for on-the-go ordering
+🎨 Stunning UI — Glassmorphism design with 3D visuals
+🔒 Secure — Local authentication with encrypted storage
 
-![Mess On-Demand Demo](https://via.placeholder.com/800x400.png?text=Mess+On-Demand+Demo)
 
----
 
-## 📌 Table of Contents
+# Technology Stack 🛠️🛠️
+<div align="center">
+Frontend Technologies
+<table> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br> <b>HTML5</b> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br> <b>CSS3</b> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br> <b>JavaScript</b> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50" /><br> <b>Three.js</b> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" /><br> <b>PHP</b> </td> </tr> </table>
 
-- [🌟 Features](#-features)
-- [🖥️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Quick Start](#-quick-start)
-- [📦 Installation](#-installation)
-- [🔧 Configuration](#-configuration)
-- [📡 API Endpoints](#-api-endpoints)
-- [🎨 UI Features](#-ui-features)
-- [📊 Database Schema](#-database-schema)
-- [🚢 Deployment](#-deployment)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
+# Sections 📱📱
+ 
+🏠 Dashboard — Stats & quick links
 
----
+🍽️ Menu — Full menu with filters
 
-## 🌟 Features
+🍰 Sweets — Dessert section
 
-### 🎯 Core Features
-- **🔐 Authentication System**
-  - User Registration with college details
-  - Secure Login with JWT tokens
-  - Profile Management
-  - Password Hashing with bcrypt
+⭐ Special Dishes — Chef's specials
 
-- **🍕 Menu Management**
-  - Browse all food items with icons
-  - Filter by Veg/Non-Veg
-  - Special categories: Sweets, Thali, Tiffin, Offers
-  - Quick add to cart with quantity control
+👑 Special Thali — Premium meal combos
 
-- **🛒 Shopping Cart**
-  - Add/Remove items
-  - Update quantities
-  - Real-time total calculation
-  - Persistent cart storage
+📦 ₹80 Tiffin — Daily tiffin specials
 
-- **📦 Order System**
-  - Place orders with one click
-  - View order history
-  - Track order status
-  - Cancel orders (if not delivered)
-  - Re-order previous orders
+🏷️ Offers — Discounted deals
 
-- **⭐ Reviews & Ratings**
-  - Rate orders with 1-5 stars
-  - Write detailed reviews
-  - View rating summary with breakdown
-  - See all user reviews
+🚚 Orders — Order history
 
-- **🎁 Reward Points**
-  - Earn 1 point per ₹10 spent
-  - Track points in dashboard
-  - View points in profile
+⭐ Ratings — Reviews & feedback
 
-### 🎨 UI/UX Features
-- 🌓 **Dark/Light Theme** toggle
-- 🎮 **3D Interactive Background** with Three.js
-- 📱 **Mobile Responsive** design
-- ✨ **Smooth Animations** & Transitions
-- 🎯 **Intuitive Navigation**
-- 💫 **Glassmorphism** design language
+👤 Profile — User management
 
----
 
-## 🖥️ Tech Stack
 
-### Frontend
