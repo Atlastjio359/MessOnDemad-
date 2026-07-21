@@ -20,25 +20,16 @@ Frontend Technologies
 
 # Sections 📱📱
  
-🏠 Dashboard — Stats & quick links
-
-🍽️ Menu — Full menu with filters
-
-🍰 Sweets — Dessert section
-
-⭐ Special Dishes — Chef's specials
-
-👑 Special Thali — Premium meal combos
-
-📦 ₹80 Tiffin — Daily tiffin specials
-
-🏷️ Offers — Discounted deals
-
-🚚 Orders — Order history
-
-⭐ Ratings — Reviews & feedback
-
-👤 Profile — User management
+1. 🏠 Dashboard — Stats & quick links
+2.🍽️ Menu — Full menu with filters
+3.🍰 Sweets — Dessert section
+4.⭐ Special Dishes — Chef's specials
+5.👑 Special Thali — Premium meal combos
+6.📦 ₹80 Tiffin — Daily tiffin specials
+7.🏷️ Offers — Discounted deals
+8.🚚 Orders — Order history
+9.⭐ Ratings — Reviews & feedback
+10.👤 Profile — User management
 
 
 # 🍽️ Mess On-Demand - Ultimate College Food Delivery Platform
