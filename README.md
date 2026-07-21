@@ -48,32 +48,13 @@ Frontend Technologies
 
 ---
 
-## 📋 Table of Contents
+## 📋Documentation & Support (User-Facing)
 
-- [🌟 Features](#-features)
-- [🎯 Problem Statement](#-problem-statement)
-- [💡 Solution](#-solution)
-- [🖥️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Quick Start](#-quick-start)
-- [📦 Installation](#-installation)
-- [🔧 Configuration](#-configuration)
-- [📡 API Endpoints](#-api-endpoints)
-- [🎨 UI Features](#-ui-features)
-- [📊 Database Schema](#-database-schema)
-- [🚢 Deployment](#-deployment)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
-- [📞 Contact](#-contact)
-- [📈 Project Status](#-project-status)
-- [🎯 Roadmap](#-roadmap)
-- [📚 Documentation](#-documentation)
-- [❓ FAQ](#-faq)
-- [💖 Support](#-support)
-
----
-
+Section	Why It's Important
+📁 Project Structure	Helps navigate the codebase
+📊 Database Schema	Understands data flow
+❓ FAQ	Reduces support tickets
+📞 Contact	How to reach maintainers
 ## 🌟 Features
 
 ### 🔐 Authentication & Security
