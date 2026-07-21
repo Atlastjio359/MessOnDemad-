@@ -44,9 +44,6 @@ Frontend Technologies
 
 > **A complete, production-ready college food delivery platform** where students can order home-style meals, track orders in real-time, earn reward points, and share feedback. Built with modern web technologies for the ultimate user experience.
 
-![Mess On-Demand Demo]("C:\Users\hp\OneDrive\Desktop\Devix26\Messondemand")
-
----
 
 ## 📋Documentation & Support (User-Facing)
 
